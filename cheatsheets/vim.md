@@ -1,9 +1,10 @@
 # Vim Cheatsheet
 
 ### Exit Vim
-    :wq
-    :ZZ
-    :q
+    :wq - (save and quit)
+    :q! - (quit vim without saving)
+
+    Shift+zz - (Save and quit)
 
 ### Navigation
     * General Movement
