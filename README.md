@@ -1,2 +1,2 @@
-# Collection of Handy Scripts, Notes , Cheatsheets
+# Collection of Handy Scripts, Notes and Cheatsheets
 
