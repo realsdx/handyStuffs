@@ -3,6 +3,7 @@
 ### Exit Vim
     :wq - (save and quit)
     :q! - (quit vim without saving)
+    :w  - (Save the current file)
 
     Shift+zz - (Save and quit)
 
@@ -12,6 +13,8 @@
     k - Move one line up
     h - Move one char left
     l - Move one char right
+    5k - Move 5 lines up
+    
     
     * Page movement
     gg - Go to first line
